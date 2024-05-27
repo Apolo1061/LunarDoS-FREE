@@ -28,4 +28,3 @@ python3 Lunar-FREE.py
 ```
 #### Demostracion
 <img src="/Captura de pantalla 2024-05-26 210253.png"></img>
-https://www.mediafire.com/file/kedzebqbh7c0pzf/hydro.zip/file
