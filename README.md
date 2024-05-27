@@ -13,7 +13,7 @@ Dispositivo Linux/GNU ️💻
 Dispositivo con termux 📱
 
 Tener un buen dispositivo ya qye este script de python3 contiene procesos los cuales consumen muchos recursos del device en donde se esta ejecutando es mejor usarlo en un dispositivo con recursos tipo de pc gama media este script tambien puede ser utilizado en vps o las famosas google cloudshell
-##  Como clonar el repositorio
+##  Como clonar y ejecutar el repositorio
 ```
 git clone https://github.com/Apolo1061/LunarDoS-FREE.git
 ```
