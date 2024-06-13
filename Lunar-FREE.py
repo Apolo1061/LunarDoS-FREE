@@ -172,8 +172,8 @@ if __name__ == "__main__":
             os.system("clear")
             print(logo)
             url = input(f"{Style.BRIGHT}{Fore.RED}[ {Fore.YELLOW}? {Fore.RED}] {Fore.CYAN}URL: {Style.RESET_ALL}")
-            requests_per_second = 15500
-            num_processes = 15500
+            requests_per_second = 500
+            num_processes = 500
             duration = int(input(f"{Style.BRIGHT}{Fore.RED}[ {Fore.YELLOW}? {Fore.RED}] {Fore.CYAN}TIME: {Style.RESET_ALL}"))
             logo_send5 = f"""{Style.BRIGHT}{Fore.WHITE}
             DESTINY {Fore.RED}|{Fore.CYAN} {url}
